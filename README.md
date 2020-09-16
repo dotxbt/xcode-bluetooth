@@ -1,5 +1,7 @@
 # xcode-bluetooth
-[![](https://jitpack.io/v/dotxbt/xcode-bluetooth.svg)](https://jitpack.io/#dotxbt/xcode-bluetooth)
+_**Bluetooth Thermal Printer Library**_
+
+[![](https://jitpack.io//xcode-bluetooth.svg)](https://jitpack.io/#dotxbt/xcode-bluetooth)
 
 ### How to implement?
 Add this library for AndroidX :
