@@ -141,3 +141,6 @@ printer.directPrint("DC:0D:30:0A:79:39", "THIS IS HEADER", "This is contents", "
 CustomPrinter printer = new CustomPrinter(getContext());
 printer.directPrint("DC:0D:30:0A:79:39", "THIS IS HEADER", "This is contents", "THIS IS FOOTER");
 ```
+
+### Contributor
+* [Sabituddin Bigbang](https://www.instagram.com/sabituddin_bigbang/)
