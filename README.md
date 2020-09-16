@@ -3,6 +3,15 @@ _**Bluetooth Thermal Printer Library**_
 
 [![](https://jitpack.io/v/dotxbt/xcode-bluetooth.svg)](https://jitpack.io/#dotxbt/xcode-bluetooth)
 ### How to implement?
+Add to gradle :
+```gradle
+allprojects {
+    repositories {
+        maven { url 'https://jitpack.io' }
+    }
+}
+```
+
 Add this library for AndroidX :
 ```gradle
 dependencies {
